@@ -2,11 +2,10 @@
 path: /First-Post
 title: First post
 date: 2020-03-24
-tags:
-  - MyLife
-  - "2020"
+tags: ["MyLife", "2020"]
 excerpt: Hey, everybody. My name is Max and I'm from Russia.
 ---
+
 > I thought long and hard about how to start the first post, so I decided not to complicate it.
 
 Hey, everybody. My name is Max and I'm from Russia. On this blog I will write about life in my country, about my work, my attempts to move to Canada and much more. And also this blog is a kind of my workbook as I know English very badly and with the help of my "writing" I hope to bring it up to an acceptable level. (I would be very grateful if you could point out any mistakes)
