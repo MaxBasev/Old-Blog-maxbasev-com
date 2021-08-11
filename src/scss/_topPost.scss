@@ -1,0 +1,32 @@
+
+  /*----------------------------------------------- 
+  Blog titles etc 
+  -----------------------------------------------*/
+  
+
+  
+  .top-post-bg-color {
+    background: $backgroundColor;
+    size: cover;
+  }
+  
+  .top-post-title {
+   
+    font-size: 44px;
+  }
+  
+  .top-post-btn {
+    font-size: 24px !important;
+
+    // &:hover {
+    //     color:aliceblue;
+    // }
+  }
+  .top-post-title, .top-post-text, .top-post-btn {
+    padding: 15px;
+  
+  }
+  
+  
+  
+  

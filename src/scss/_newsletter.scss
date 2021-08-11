@@ -1,0 +1,90 @@
+@import "./vars";
+
+/*--------------------------------------------------------------
+# Newsletter Revue Form
+--------------------------------------------------------------*/
+.input-wrapper {
+  width: 500px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.input-wrapper::after {
+  content: attr(data-text);
+  font-size: 1.5rem;
+  line-height: 0;
+  height: 0;
+  max-width: 100%;
+  font-family: Roboto, Arial, sans-serif;
+  border-bottom: 3px solid $mainAnimationColor;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  overflow: hidden;
+  user-select: none;
+  color: transparent;
+}
+
+input {
+  color: $mainAnimationColor;
+  border: none;
+  padding: 0;
+  border-radius: 0;
+  outline: none;
+  width: auto;
+  min-width: 100%;
+  font-size: 1.5rem;
+  line-height: 3em;
+  font-family: Roboto, Arial, sans-serif;
+  border-bottom: 3px solid $mainAnimationColor;
+  background-color: transparent;
+}
+
+.newsletter .content h3 {
+    font-weight: 700;
+    font-size: 26px;
+    color: #173b6c;
+  }
+  
+  .newsletter .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .newsletter .content ul li {
+    padding-bottom: 10px;
+  }
+  
+  .newsletter .content ul i {
+    font-size: 20px;
+    /* padding-right: 2px; */
+    color: $mainAnimationColor;
+  }
+  
+  .newsletter .content p:last-child {
+    margin-bottom: 0;
+  }
+
+  .revue-form-field {
+    border: none;
+    border-bottom: 1px solid #2c2f3f;
+    background-color:transparent;
+    font-size: 32px;
+    margin-top: 25px;
+  }
+  
+  .revue-form-actions {
+    margin-top: 10px;
+  }
+  
+  .btn-rev {
+    background-color: transparent !important;
+    width: 500px;
+    display: block;
+  }
+  
+  .about-btn-rev {
+    background-color: transparent !important;
+    color:#fff;
+  }
