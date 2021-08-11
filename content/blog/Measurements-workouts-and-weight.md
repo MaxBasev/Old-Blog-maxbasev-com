@@ -1,3 +1,11 @@
+---
+path: /Measurements-workouts-and-weight
+title: "Measurements, workouts, and weight"
+date: 2020-09-25
+tags: ["MyLife", "2020"]
+excerpt: "This will be a short post, and I’ll do the blog (as much and as often as possible) after I redesign it. I think that will be in 2021. Although, of course, I will write a year-end post. The year is ending and my progress in gaining weight is still as sad as ever. Here’s a spreadsheet of my measurements for 2016, 2018, and this year."
+---
+
 This will be a short post, and I’ll do the blog (as much and as often as possible) after I redesign it. I think that will be in 2021. Although, of course, I will write a year-end post.
 
 The year is ending and my progress in gaining weight is still as sad as ever.

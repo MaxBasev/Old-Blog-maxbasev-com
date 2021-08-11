@@ -1,5 +1,13 @@
+---
+path: /Write-about-what
+title: Write about what
+date: 2020-06-16
+tags: ["MyLife", "2020"]
+excerpt: What should I write about? Where to get a topic for a post on Instagram (for example)? What if I’m boring?
+---
+
 > What should I write about? Where to get a topic for a post on Instagram (for example)? What if I’m boring?
-©Max Basev *in a fit of panic*
+> ©Max Basev _in a fit of panic_
 
 Hello, everybody. I decided to write another post here but with a little thought about the topic, what to write about? Where can I get the theme for the post? What if there’s nothing to write about? Let’s think about it.
 
@@ -18,7 +26,7 @@ Okay, well, that’s more of a question for Annette Simmons with her “super ne
 
 That’s how I was sitting, looking for a story, thinking about a review of books, because last week I read 3 books, and did not display in the blog, but no – another time. I decided to “hunt” more, and as a result I got this text. What’s it about? Well, it’s about the text… The text about the text, yeah… It’s about the fact that you can write a text (even if it doesn’t suck) with absolutely any idea/topic or even with its absence.
 
-Come on, let’s take the situation that the topic “What to write about?” about texts is not suitable for your “Instagram account” at all. Hmm, what did I do this morning? I got up at 5, did a stretch for 45 minutes = at least three topics: the benefit of waking up at 5 am (or a feeling of superiority over others *evil laugh*), a post about stretching (I even wrote about it and habits once in my Russian blog) just about exercise or post about discipline / habits / motivation / health. Here is the story: “I got up today at 5 am, myself and without an alarm clock! Then I drank a glass of water, meditated for 5 minutes and went to stretch. It was really cool!” Well, that’s something like storytelling.
+Come on, let’s take the situation that the topic “What to write about?” about texts is not suitable for your “Instagram account” at all. Hmm, what did I do this morning? I got up at 5, did a stretch for 45 minutes = at least three topics: the benefit of waking up at 5 am (or a feeling of superiority over others _evil laugh_), a post about stretching (I even wrote about it and habits once in my Russian blog) just about exercise or post about discipline / habits / motivation / health. Here is the story: “I got up today at 5 am, myself and without an alarm clock! Then I drank a glass of water, meditated for 5 minutes and went to stretch. It was really cool!” Well, that’s something like storytelling.
 
 No, no, no, it’s already happened, it’s got to be something else!
 

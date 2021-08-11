@@ -1,8 +1,17 @@
+---
+path: /Movie-Review-2
+title: "Movie Review #2"
+date: 2020-09-04
+tags: ["MyLife", "2020"]
+excerpt: "A new post with reviews of the films I’ve seen in recent days."
+---
+
 A new post with reviews of the films I’ve seen in recent days.
 
 Previous part here.
 
-## Apostle 
+## Apostle
+
 In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island.
 
 IMDB
@@ -10,7 +19,8 @@ I already started watching this film about a year ago, but then I watched it wit
 
 The plot, though not very original, but something reminded me of Shyamalan movies. Also, as you think, I like horror movies and especially about the period 1800-1940. All the horror lovers should definitely watch it, but for those who don’t like horrors, I still advise to watch it at least once.
 
-## It Follows 
+## It Follows
+
 A young woman is followed by an unknown supernatural force after a sexual encounter.
 
 IMDB
@@ -22,6 +32,7 @@ There is a mixture of Final Destination, Candyman and a number of other horror m
 I advise to see the fans of the genre. I think the others won’t like it.
 
 ## Baskin
+
 A squad of unsuspecting cops go through a trapdoor to Hell when they stumble upon a Black Mass in an abandoned building.
 
 IMDB

@@ -1,10 +1,18 @@
-Have you ever thought about what would happen if you had the opportunity to start your life over? Or from any previous segment of it? Perhaps you could have avoided the huge number of mistakes you made or achieved more. Yes, if I had known about bitcoin at the time when I had a lot of it – I would never have sold it then.=) What I’m getting at is that I regret too much about my past mistakes and it’s terrible. 
+---
+path: /How-do-I-stop-regretting-the-past
+title: How do I stop regretting the past
+date: 2020-07-29
+tags: ["MyLife", "2020"]
+excerpt: "Have you ever thought about what would happen if you had the opportunity to start your life over? Or from any previous segment of it? Perhaps you could have avoided the huge number of mistakes you made or achieved more. Yes, if I had known about bitcoin at the time when I had a lot of it – I would never have sold it then.=) What I’m getting at is that I regret too much about my past mistakes and it’s terrible. "
+---
+
+Have you ever thought about what would happen if you had the opportunity to start your life over? Or from any previous segment of it? Perhaps you could have avoided the huge number of mistakes you made or achieved more. Yes, if I had known about bitcoin at the time when I had a lot of it – I would never have sold it then.=) What I’m getting at is that I regret too much about my past mistakes and it’s terrible.
 
 ## How do I stop regretting the past?
 
-I have already written in the closed part of my Patreon about my mistakes, but it doesn’t make me feel any better. Depression, stress, the feeling of my own helplessness and mediocrity is just killing me. 
+I have already written in the closed part of my Patreon about my mistakes, but it doesn’t make me feel any better. Depression, stress, the feeling of my own helplessness and mediocrity is just killing me.
 
-Unfortunately, regrets often take too much of our life force, which we could have successfully spent on something else.  Meanwhile, experts have found out that every time we regret the past, we slow down our progress, which obviously does not benefit us at all, so it is time to stop looking back.
+Unfortunately, regrets often take too much of our life force, which we could have successfully spent on something else. Meanwhile, experts have found out that every time we regret the past, we slow down our progress, which obviously does not benefit us at all, so it is time to stop looking back.
 
 This is what psychologists and other doctors advise:
 
@@ -14,11 +22,11 @@ We just learn from mistakes and realize that mistakes are still an experience.
 
 **2. Learn to forgive yourself and others**
 
-No comments. 
+No comments.
 
 **3. Work on your mistakes**
 
-There are practically no irreparable errors. Although it seems to me that all my errors are incorrigible. 
+There are practically no irreparable errors. Although it seems to me that all my errors are incorrigible.
 
 **4. Remember why you did this**
 
