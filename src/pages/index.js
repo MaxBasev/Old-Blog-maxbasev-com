@@ -5,6 +5,7 @@ import Header from "../components/header"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { StaticImage } from "gatsby-plugin-image"
 
 import "../scss/index.scss"
 
