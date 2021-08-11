@@ -1,7 +1,7 @@
 ---
 path: /Mini-Notes-3
 title: "Mini Notes #3"
-date: 2020-09-02
+date: 2020-09-03
 tags: ["MyLife", "2020"]
 excerpt: "I think you have already noticed – there were no posts from me this week. Apparently, it is because I am a “lazy bun”… Or maybe it’s a prokrastination? It is necessary to understand the difference of these terms at leisure.
 Well, now, Mini Notes #3."

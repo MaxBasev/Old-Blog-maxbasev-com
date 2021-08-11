@@ -1,6 +1,6 @@
 ---
 path: /New-concept
-title: "New concept"
+title: New concept
 date: 2020-09-12
 tags: ["MyLife", "2020"]
 excerpt: "Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project (this blog). What benefits does it bring? – **Nothing**. Who would be interested in it? – **No one**.
