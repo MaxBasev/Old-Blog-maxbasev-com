@@ -3,7 +3,7 @@ module.exports = {
     title: `Max Basev Blog`,
     author: {
       name: `Max Basev`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `I start at the bottom. I create IT projects, take pictures of the city and try to do self-development.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://maxbasev.com`,
