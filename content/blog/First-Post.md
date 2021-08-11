@@ -8,6 +8,8 @@ excerpt: Hey, everybody. My name is Max and I'm from Russia.
 
 > I thought long and hard about how to start the first post, so I decided not to complicate it.
 
+![My First Post Image](../static/admin/images/uploads/001-01-First-Post.jpg "My First Post")
+
 Hey, everybody. My name is Max and I'm from Russia. On this blog I will write about life in my country, about my work, my attempts to move to Canada and much more. And also this blog is a kind of my workbook as I know English very badly and with the help of my "writing" I hope to bring it up to an acceptable level. (I would be very grateful if you could point out any mistakes)
 
 At the moment I do not plan to monetize this blog in any way (although in the future everything can be), but so far there will be no advertising.
