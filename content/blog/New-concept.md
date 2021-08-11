@@ -1,12 +1,7 @@
 ---
-path: /New-concept
 title: New concept
-date: 2020-09-12
-tags: ["MyLife", "2020"]
-excerpt: "Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project (this blog). What benefits does it bring? – **Nothing**. Who would be interested in it? – **No one**.
-In my dream…"
+date: 2020-09-12T15:44:00.000Z
 ---
-
 Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project (this blog). What benefits does it bring? – **Nothing**. Who would be interested in it? – **No one**.
 In my dream…
 The original idea was to create a blog with motivational stories about how I overcome difficulties and get out of debt, but so far I just keep falling further and further down. I don’t think anyone would want to read the stories of a loser, at least on a permanent basis. How can I be useful to society and readers? How can I help specifically you (each of you)?
