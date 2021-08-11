@@ -1,9 +1,18 @@
+---
+path: /Shame
+title: Shame
+date: 2020-05-11
+tags: ["MyLife", "2020"]
+excerpt: Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen?
+---
+
 > Shame is a soul eating emotion.
-© Carl Gustav Jung
+> © Carl Gustav Jung
 
 ## Part 1. What am I talking about?
-Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen? 
-I don’t know about you, but I’ve had it a few times. They say, “Modesty adorns a man,” I’m not sure. I don’t think modesty is the only thing that gets in the way. Modesty and shame are not synonymous, but one follows the other. 
+
+Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen?
+I don’t know about you, but I’ve had it a few times. They say, “Modesty adorns a man,” I’m not sure. I don’t think modesty is the only thing that gets in the way. Modesty and shame are not synonymous, but one follows the other.
 
 It’s probably the country I live in. We have the most impudent and immodest people who succeed simply because they step on people and they don’t care about moral and social principles. And I was brought up differently. What am I supposed to do now?!
 
@@ -13,10 +22,11 @@ PIC
 About shame - comics
 
 ## Part 2. Is it bad to be an introvert?
+
 I would say definitely, yes. Let’s find out what Wikipedia thinks about this.
 
 > The traits of extraversion (or extroversion) and introversion are a central dimension in some human personality theories. The terms introversion and extraversion were popularized by Carl Jung, although both the popular understanding and psychological usage differ from his original intent. Extraversion tends to be manifested in outgoing, talkative, energetic behavior, whereas introversion is manifested in more reserved and solitary behavior. Rather than focusing on interpersonal behavior, however, Jung defined introversion as an “attitude-type characterised by orientation in life through subjective psychic contents”, and extraversion as “an attitude-type characterised by concentration of interest on the external object”.
-©wikipedia
+> ©wikipedia
 
 In short, nothing good.
 
@@ -30,6 +40,7 @@ How can I fix this? Well, let’s start by being honest not only with yourself, 
 Well, in that case, I declare that everything I’ve written here before and what I’ll write in the future is 100% true. And let me be ashamed.
 
 ## Part 3. What else?
+
 I’ve been asked by some in personal conversations. “Do you keep a diary? What do you mean? I mean, it’s already outdated.”
 So I’ve decided that I’ll keep the diary not only in Russian, but also in English. Why not use the Patreon platform for that? Don’t worry, it’ll all be free.)
 I must defeat modesty, and at the same time it is an additional practice of English.
