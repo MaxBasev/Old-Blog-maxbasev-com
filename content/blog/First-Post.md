@@ -32,3 +32,5 @@ I've already written a little above, it's a personal blog. I'll try to write abo
 Well, somehow, I don't even know what else to add here. Anyway, I'm glad to make any new acquaintances, and even more - your comments=).
 
 P.S. Sorry for my bad English ^^
+
+![First Post Smile](/images/uploads/001-02-first-post-smile.png "Comix? Traaaash")
