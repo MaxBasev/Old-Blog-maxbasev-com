@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 import AppHeader from "../components/header"
 
 import "../styles/global.scss"
+import "../utils/boxicons/css/boxicons.min.css"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
