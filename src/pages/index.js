@@ -5,7 +5,7 @@ import Header from "../components/header"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { StaticImage } from "gatsby-plugin-image"
+import AppHeader from "../components/header"
 
 // import "../scss/index.scss"
 
@@ -17,6 +17,7 @@ const BlogIndex = ({ data, location }) => {
     return (
       <Layout location={location} title={siteTitle}>
         <Seo title="All posts" />
+        <AppHeader />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
