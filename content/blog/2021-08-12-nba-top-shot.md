@@ -1,7 +1,6 @@
 ---
-layout: blog
 title: NBA Top Shot
-date: 2021-02-25T09:46:25.979Z
+date: 2021-02-25T09:48:00.000Z
 ---
 ## So what is [NBA Top Shot](http://bit.ly/2NyAfJR)?
 
