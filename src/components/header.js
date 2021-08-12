@@ -1,12 +1,23 @@
 import React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 const AppHeader = () => {
   return (
     <div className="header">
       <div className="d-flex flex-column">
         <div className="profile">
-          {/* <img src="assets/img/profile-img.jpg" alt="Max Basev profile photo" className="img-fluid rounded-circle"> */}
+          {/* <img src="assets/img/profile-img.jpg" alt="Max Basev profile photo" className="img-fluid rounded-circle">  */}
+          <StaticImage
+            className="bio-avatar"
+            layout="fixed"
+            formats={["AUTO", "WEBP", "AVIF"]}
+            src="../images/profile-pic.png"
+            width={50}
+            height={50}
+            quality={95}
+            alt="Profile picture"
+          />
           <h1 className="text-light">
             <a href="https://blog.maxbasev.com">Max Basev Blog</a>
           </h1>
