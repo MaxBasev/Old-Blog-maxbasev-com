@@ -90,7 +90,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 
-#header {
+.header {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -104,14 +104,14 @@ h6 {
 	overflow-y: auto;
 }
 
-#header .profile img {
+.header .profile img {
 	margin: 15px auto;
 	display: block;
 	width: 120px;
 	border: 8px solid #2c2f3f;
 }
 
-#header .profile h1 {
+.header .profile h1 {
 
 	font-size: 24px;
 	margin: 0;
@@ -122,13 +122,13 @@ h6 {
 	font-family: $postFontPoppins;
 }
 
-#header .profile h1 a,
-#header .profile h1 a:hover {
+.header .profile h1 a,
+.header .profile h1 a:hover {
 	color: #fff;
 	text-decoration: none;
 }
 
-#header .profile .social-links a {
+.header .profile .social-links a {
 	font-size: 18px;
 	display: inline-block;
 	background: #212431;
@@ -143,7 +143,7 @@ h6 {
 	transition: 0.3s;
 }
 
-#header .profile .social-links a:hover {
+.header .profile .social-links a:hover {
 	background: $mainAnimationColor;
 	color: #fff;
 	text-decoration: none;
@@ -154,7 +154,7 @@ h6 {
 }
 
 @media (max-width: 1199px) {
-	#header {
+	.header {
 		left: -300px;
 	}
 
