@@ -9,7 +9,7 @@ const AppHeader = () => {
         <div className="profile">
           {/* <img src="assets/img/profile-img.jpg" alt="Max Basev profile photo" className="img-fluid rounded-circle">  */}
           <StaticImage
-            className="bio-avatar"
+            className="img-fluid rounded-circle"
             layout="fixed"
             formats={["AUTO", "WEBP", "AVIF"]}
             src="../images/profile-pic.png"
