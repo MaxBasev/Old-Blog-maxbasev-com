@@ -5,9 +5,9 @@ import { StaticImage } from "gatsby-plugin-image"
 const AppHeader = () => {
   return (
     <div className="header">
-      {/* <button className="mobile-nav-toggle d-xl-none">
+      <button className="mobile-nav-toggle d-xl-none">
         <i className="icofont-navigation-menu"></i>
-      </button> */}
+      </button>
       <div className="d-flex flex-column">
         <div className="profile">
           {/* <img src="assets/img/profile-img.jpg" alt="Max Basev profile photo" className="img-fluid rounded-circle">  */}
