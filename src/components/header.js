@@ -12,8 +12,8 @@ const AppHeader = () => {
             className="img-fluid rounded-circle"
             // layout="fixed"
             formats={["AUTO", "WEBP", "AVIF"]}
-            src="../images/profile-pic.png"
-            alt="Profile picture"
+            src="../images/profile-img.jpg"
+            alt="Max Basev profile photo"
           />
           <h1 className="text-light">
             <a href="https://blog.maxbasev.com">Max Basev Blog</a>
