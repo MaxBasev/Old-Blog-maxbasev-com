@@ -46,31 +46,31 @@ const AppHeader = () => {
         <nav className="nav-menu">
           <ul>
             <li data-aos="fade-right" data-aos-delay="100">
-              <a href="https://blog.maxbasev.com">
+              <Link to="/">
                 <i className="bx bx-home"></i>
-                <span> Blog</span>
-              </a>
+                <span> All posts</span>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="125">
-              <a href="#about">
+              <Link to="/crypto/">
                 <i className="bx bx-bitcoin"></i> <span>Crypto</span>
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="150">
-              <a href="#resume">
+              <Link to="/development/">
                 <i className="bx bxl-dev-to"></i> <span>Development</span>
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="175">
-              <a href="#portfolio">
+              <Link to="/entertainment/">
                 <i className="bx bx-camera-movie"></i>
                 Entertainment
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="200">
-              <a href="#services">
+              <Link to="/my-life/">
                 <i className="bx bx-cool"></i> My Life
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="225">
               <a href="#contact">
@@ -95,6 +95,17 @@ const AppHeader = () => {
           <i className="icofont-navigation-menu"></i>
         </button>
       </div>
+      <footer id="footer">
+        <div className="container">
+          <div className="copyright">
+            <a href="https://maxbasev.com">
+              <i className="bx bxl-google-cloud"></i> Back to site
+            </a>
+            <br></br>© 2020 - {new Date().getFullYear()},{` `}
+            Max Basev
+          </div>
+        </div>
+      </footer>
     </div>
   )
 }

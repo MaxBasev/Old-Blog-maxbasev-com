@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
-import Layout from "../components/layout"
+import PostLayout from "../components/post-layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -11,7 +11,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <PostLayout location={location} title={siteTitle}>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
@@ -23,6 +23,12 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
+          <h5>
+            Categories:{" "}
+            {post.frontmatter.categories.map(category => (
+              <div>{category}</div>
+            ))}{" "}
+          </h5>
           <p>{post.frontmatter.date}</p>
         </header>
         <section
@@ -60,7 +66,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
-    </Layout>
+    </PostLayout>
   )
 }
 
@@ -85,7 +91,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        tags
+        categories
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

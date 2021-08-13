@@ -2,7 +2,7 @@
 path: /Write-about-what
 title: Write about what
 date: 2020-06-16
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: What should I write about? Where to get a topic for a post on Instagram (for example)? What if I’m boring?
 ---
 

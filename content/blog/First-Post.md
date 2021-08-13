@@ -2,12 +2,13 @@
 path: /First-Post
 title: First post
 date: 2020-03-24
-tags:
+categories:
   - MyLife
   - "2020"
 excerpt: Hey, everybody. My name is Max and I'm from Russia.
 featuredImage: 001-01-First-Post.jpg
 ---
+
 > I thought long and hard about how to start the first post, so I decided not to complicate it.
 
 ![My First Post Image](/images/uploads/001-01-first-post.jpg "My First Post")

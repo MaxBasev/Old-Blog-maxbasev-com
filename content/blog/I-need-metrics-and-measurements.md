@@ -2,7 +2,7 @@
 path: /I-need-metrics-and-measurements
 title: I need metrics and measurements
 date: 2020-07-20
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: Even when I first started to earn money on the Internet, advertising and everything connected with it, I immediately realized that to achieve any positive result without tracking the current progress is simply impossible. It does not happen that you decided to lose 20 kg of fat, for this you decided to run every morning and you have everything in 2 months.
 ---
 

@@ -279,6 +279,25 @@ input {
   }
 }
 
+.tags-menu a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.tags-menu li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 15px;
+  border: solid 1px #7800ff;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #7800ff;
+}
+
+.tags-menu li:hover {
+  background-color: #2196f3;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;

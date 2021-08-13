@@ -1,7 +1,10 @@
 ---
 title: NBA Top Shot
 date: 2021-02-25T09:48:00.000Z
+categories: ["Crypto"]
+tags: ["NFT"]
 ---
+
 ## So what is [NBA Top Shot](http://bit.ly/2NyAfJR)?
 
 #### A brief backstory.

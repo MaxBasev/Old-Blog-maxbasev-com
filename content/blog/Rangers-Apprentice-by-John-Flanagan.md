@@ -2,7 +2,7 @@
 path: /Rangers-Apprentice-by-John-Flanagan
 title: Ranger's Apprentice by John Flanagan
 date: 2020-08-18
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "Tuesday will be the day of books. So a little feedback on what I read last week. And I read, or rather listened to it in the audio version, the first four books from Ranger’s Apprentice series by John Flanagan."
 ---
 

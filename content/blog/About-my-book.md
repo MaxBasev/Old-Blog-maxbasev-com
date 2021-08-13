@@ -2,7 +2,7 @@
 path: /About-my-book
 title: About my book
 date: 2020-04-01
-tags: ["MyLife", "2020"]
+categories: ["My Life", "Creativity"]
 excerpt: A Russian guy who has a very poor knowledge of English decided to write a book in English. Is he crazy? Let’s see, what’s he gonna do?
 ---
 

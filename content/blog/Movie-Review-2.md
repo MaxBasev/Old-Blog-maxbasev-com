@@ -2,7 +2,7 @@
 path: /Movie-Review-2
 title: "Movie Review #2"
 date: 2020-09-04
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "A new post with reviews of the films I’ve seen in recent days."
 ---
 

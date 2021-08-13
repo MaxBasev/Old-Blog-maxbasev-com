@@ -2,7 +2,7 @@
 path: /Movie-Review-1
 title: "Movie Review #1"
 date: 2020-08-29
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "So, I wanted to write this post long ago, last week. A post about the films I’ve recently seen, but last week I didn’t have time to do it, but there’s a lot more to write about."
 ---
 

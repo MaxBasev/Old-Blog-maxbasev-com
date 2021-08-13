@@ -2,7 +2,7 @@
 path: /Mini-Notes-3
 title: "Mini Notes #3"
 date: 2020-09-03
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: I think you have already noticed – there were no posts from me this week..
 ---
 

@@ -2,7 +2,7 @@
 path: /The-influence-of-the-community-who-keeps-company-with-the-wolf-will-learn-to-howl
 title: "The influence of the community: who keeps company with the wolf will learn to howl"
 date: 2020-06-12
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: Does the community form a person’s personality, or does the person choose a circle of communication based on the inherent traits?
 ---
 

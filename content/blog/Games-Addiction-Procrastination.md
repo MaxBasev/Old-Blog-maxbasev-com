@@ -2,7 +2,7 @@
 path: /Games-Addiction-Procrastination
 title: Games. Addiction. Procrastination
 date: 2020-06-08
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: It’s been a long time since I wanted to write this post, so I finally decided. We are talking about computer games, pleasures, addiction and everything that is associated with these things.
 ---
 

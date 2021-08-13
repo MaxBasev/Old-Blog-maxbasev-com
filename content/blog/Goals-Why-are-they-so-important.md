@@ -2,7 +2,7 @@
 path: /Goals-Why-are-they-so-important
 title: Goals.Why are they so important
 date: 2020-04-28
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: Our whole life is built on needs. Yes, everyone sees and presents them in their own way. Some people have dreams in their hearts since childhood, but others, on the contrary, live real life, day after day immersed in the abyss of routine. However, even the second one once had a dream that most likely did not come true. So what is a dream? First of all, it’s the desire to satisfy your need, which comes from the lack of something.
 ---
 

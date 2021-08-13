@@ -2,7 +2,7 @@
 path: "/Post-two-About-health-my-country-and-my-book"
 date: "2020-03-27"
 title: "Post two. About health, my country and my book"
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "In this post, there will be little notes on everything that happens to me and around me.."
 ---
 

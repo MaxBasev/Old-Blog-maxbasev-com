@@ -2,7 +2,7 @@
 path: /Todorant
 title: Todorant
 date: 2020-08-19
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "As I wrote yesterday in my diary at Patreon, today there will be a small post about how I organized my work (if it can be called a work at all) and how I manage to work on at least 8 projects in 1 day. To be honest, I can hardly keep up and have to work 10-12 hours a day, but everything is quite fast and productive."
 ---
 

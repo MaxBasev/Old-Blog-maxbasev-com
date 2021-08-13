@@ -2,7 +2,7 @@
 path: /The-summary-of-my-29-years-of-life
 title: The summary of my 29 years of life
 date: 2020-10-10
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "On January 8 of this year I turned 30 years old. To be honest – I never liked my birthday… But anyway, I decided to take stock of my 29th year of life. Yep, it was a bad year (if anyone doesn’t want to read the details, here are some spoilers – it was a really bad year)."
 ---
 

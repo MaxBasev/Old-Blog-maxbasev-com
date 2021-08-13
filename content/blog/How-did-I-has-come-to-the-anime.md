@@ -2,7 +2,7 @@
 path: /How-did-I-has-come-to-the-anime
 title: How did I has come to the anime
 date: 2020-07-23
-tags: ["MyLife", "2020"]
+categories: ["MyLife", "2020"]
 excerpt: "Funny thing is the Telegram Chats. Earlier this year, I created a couple of channels with manga and comics, with the idea: “Let the subscribers talk”. And they asked me a question there, a simple question that seemed to be, “… What makes you do it?” Something I said, went to the dishes to wash, and in the head of thoughts spinning and memories of “How did I has come to the anime…” well, or on the simple why I started to watch anime and read manga"
 ---
 
