@@ -73,20 +73,20 @@ const AppHeader = () => {
               </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="225">
-              <a href="#contact">
+              <Link to="/self-development/">
                 <i className="bx bx-rocket"></i> Self Development
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="250">
-              <a href="#contact">
+              <Link to="/creativity/">
                 <i className="bx bx-brush"></i>
                 Creativity
-              </a>
+              </Link>
             </li>
             <li data-aos="fade-right" data-aos-delay="275">
-              <a href="#contact">
+              <Link to="/coming-soon/">
                 <i className="bx bx-planet"></i> Travel
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>
