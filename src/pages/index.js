@@ -5,8 +5,8 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import AppHeader from "../components/header"
+import TopPost from "../components/topPost"
 
-import "../styles/global.scss"
 import "../utils/boxicons/css/boxicons.min.css"
 
 const BlogIndex = ({ data, location }) => {
@@ -25,8 +25,8 @@ const BlogIndex = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <AppHeader />
+    <Layout location={location}>
+      <TopPost />
       <Seo title="All posts" />
       {/* <Header /> */}
       {/* <Bio /> */}

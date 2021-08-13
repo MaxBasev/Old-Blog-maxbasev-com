@@ -1,8 +1,8 @@
-@import "../scss/vars";
-@import "../scss/normalize";
-@import "../scss/topPost";
-@import "../scss/newsletter";
-@import "../scss/borderAnimation";
+@import "./_vars";
+@import "./normalize";
+@import "./topPost";
+@import "./_newsletter";
+@import "./_borderAnimation";
 
 
 body {
