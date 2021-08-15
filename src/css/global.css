@@ -299,6 +299,23 @@ input {
   background-color: #2196f3;
 }
 
+.categories-title {
+  color: #000000;
+  font-size: 18px;
+}
+
+.categories-value {
+  color: #7800ff;
+  font-size: 18px;
+}
+
+.tags-value {
+  color: #7800ff;
+  border: 1px solid #7800ff;
+  border-radius: 15px;
+  padding: 5px;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;

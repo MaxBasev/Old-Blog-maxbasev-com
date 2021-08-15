@@ -1,6 +1,5 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import BlogPostTemplate from "../templates/blog-post"
 import kebabCase from "lodash/kebabCase"
 
 const TagsLayout = ({ data, location }) => {

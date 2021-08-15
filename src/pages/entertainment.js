@@ -6,8 +6,6 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import AppHeader from "../components/header"
 
-import "../utils/boxicons/css/boxicons.min.css"
-
 const BlogEntertainment = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes

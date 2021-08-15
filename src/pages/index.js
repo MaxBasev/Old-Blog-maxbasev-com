@@ -6,7 +6,6 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import AppHeader from "../components/header"
 import TopPost from "../components/topPost"
-import { Button } from "bootstrap"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`

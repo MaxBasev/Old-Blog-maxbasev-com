@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import { StaticImage, GatsbyImage } from "gatsby-plugin-image"
 import profileImg from "../images/profile-img.jpg"
 
 const AppHeader = () => {
