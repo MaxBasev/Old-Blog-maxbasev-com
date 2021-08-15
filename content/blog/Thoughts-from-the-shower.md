@@ -1,8 +1,10 @@
 ---
 path: /Thoughts-from-the-shower
+layout: blog
 title: Thoughts from the shower
 date: 2020-04-28
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: When you take a shower, sometimes you get such brilliant ideas that you can immediately hope for the Nobel Prize. It’s a shame I forget them right away.
 ---
 

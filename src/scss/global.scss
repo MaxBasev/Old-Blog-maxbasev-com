@@ -4,7 +4,7 @@
 @import "./_newsletter";
 @import "./_borderAnimation";
 @import "./_tagsLayout";
-
+@import "./singlePost.scss";
 
 body {
 	font-family: $postFontOpenSans;
@@ -150,18 +150,17 @@ h6 {
 	text-decoration: none;
 }
 
-#main {
-	margin-left: 300px;
-}
+// .global-wrapper {
+// 	margin-left: 300px;
+// }
+
+
 
 @media (max-width: 1199px) {
 	.header {
 		left: -300px;
 	}
 
-	#main {
-		margin-left: 0;
-	}
 }
 
 /*--------------------------------------------------------------
@@ -272,7 +271,7 @@ Progress bar
 # Sections General
 --------------------------------------------------------------*/
 section {
-	padding: 60px 0;
+	padding: 10px 0;
 	overflow: hidden;
 }
 

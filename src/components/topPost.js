@@ -3,7 +3,7 @@ import React from "react"
 const TopPost = () => {
   return (
     <div
-      className="p-4 p-md-5 mb-4 text-white top-post-bg-color"
+      className="p-4 p-md-5 mb-4 text-white top-post-bg"
       data-aos="fade-left"
     >
       <div className="col-md-12">
@@ -19,7 +19,7 @@ const TopPost = () => {
               href="https://maxbasev.com/about-me.html"
               className="text-white fw-bold border-animation__inner"
             >
-              Continue reading...
+              Continue reading....
             </a>
           </p>
         </div>

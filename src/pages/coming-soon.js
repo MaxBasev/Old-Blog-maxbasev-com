@@ -10,7 +10,9 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Coming Soon" />
-      <h1>Coming Soon</h1>
+      <div className="global-wrapper">
+        <h1>Coming Soon</h1>
+      </div>
     </Layout>
   )
 }

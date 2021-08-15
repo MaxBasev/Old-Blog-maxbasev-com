@@ -1,8 +1,10 @@
 ---
 path: /Mini-Notes-1
+layout: blog
 title: "Mini Notes #1"
 date: 2020-06-14
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Today there will be a small post, as we call it in our country “for the evil of the day”. I will argue a little about the situation in the country, stupid youth and all that.
 ---
 

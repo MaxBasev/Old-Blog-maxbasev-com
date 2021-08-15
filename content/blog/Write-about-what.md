@@ -1,8 +1,10 @@
 ---
 path: /Write-about-what
+layout: blog
 title: Write about what
 date: 2020-06-16
-categories: ["MyLife", "2020"]
+categories: ["Creativity", "My Life"]
+tags: ["Notes"]
 excerpt: What should I write about? Where to get a topic for a post on Instagram (for example)? What if I’m boring?
 ---
 

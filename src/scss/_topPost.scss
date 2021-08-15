@@ -5,14 +5,18 @@
   
 
   
-  .top-post-bg-color {
+  .top-post-bg {
     background: $backgroundColor;
     size: cover;
     margin-left: 300px;
+    // margin: var(--spacing-0) auto;
+    // max-width: var(--maxWidth-wrapper);
+    // padding: var(--spacing-10) var(--spacing-5);
+    // margin-bottom: var(--spacing-20);
   }
   
   .top-post-title {
-   
+    color: #fff;
     font-size: 44px;
   }
   

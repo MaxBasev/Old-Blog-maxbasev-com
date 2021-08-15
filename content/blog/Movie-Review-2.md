@@ -1,8 +1,10 @@
 ---
 path: /Movie-Review-2
+layout: blog
 title: "Movie Review #2"
 date: 2020-09-04
-categories: ["MyLife", "2020"]
+categories: ["Entertainment"]
+tags: ["Movies & Anime"]
 excerpt: "A new post with reviews of the films I’ve seen in recent days."
 ---
 

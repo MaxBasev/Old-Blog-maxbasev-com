@@ -1,8 +1,10 @@
 ---
 path: /Just-a-message
+layout: blog
 title: Just a message
 date: 2020-04-17
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Pleasure is not the cause of happiness; rather, it is the effect.
 ---
 

@@ -1,8 +1,10 @@
 ---
 path: /Shame
+layout: blog
 title: Shame
 date: 2020-05-11
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen?
 ---
 

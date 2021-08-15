@@ -1,8 +1,10 @@
 ---
 path: /About-Slowly
+layout: blog
 title: About Slowly
 date: 2020-04-10
 categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Social networks have ruined communication at a distance and the epistolary genre has died.
 ---
 

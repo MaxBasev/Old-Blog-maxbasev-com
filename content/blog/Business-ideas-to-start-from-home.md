@@ -1,8 +1,10 @@
 ---
 path: /Business-ideas-to-start-from-home
+layout: blog
 title: Business ideas to start from home
 date: 2020-05-10
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Well, it’s time to write a little about business and money and everything I love so much. At the end of the article, I’m gonna throw in a few ideas for business at home during all this quarantine craziness.
 ---
 

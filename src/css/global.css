@@ -1,13 +1,14 @@
 /*----------------------------------------------- 
   Blog titles etc 
   -----------------------------------------------*/
-.top-post-bg-color {
+.top-post-bg {
   background: #040b14;
   size: cover;
   margin-left: 300px;
 }
 
 .top-post-title {
+  color: #fff;
   font-size: 44px;
 }
 
@@ -436,16 +437,9 @@ h6 {
   text-decoration: none;
 }
 
-#main {
-  margin-left: 300px;
-}
-
 @media (max-width: 1199px) {
   .header {
     left: -300px;
-  }
-  #main {
-    margin-left: 0;
   }
 }
 
@@ -555,7 +549,7 @@ Progress bar
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 

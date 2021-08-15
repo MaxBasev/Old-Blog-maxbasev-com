@@ -1,8 +1,10 @@
 ---
 path: /Mini-Notes-4
+layout: blog
 title: "Mini Notes #4"
 date: 2020-09-18
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: "I have no free time at all during the last week and the one that appears I spend on walks with my wife. Soon it will be very cold weather and we will walk much less – we use the last good days.As I wrote earlier in my Patreon – with the help of my father (thanks to him very much!), I found a way out of the bankruptcy situation."
 ---
 

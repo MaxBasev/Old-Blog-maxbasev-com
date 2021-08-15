@@ -1,8 +1,10 @@
 ---
 path: /About-business-in-Russia
+layout: blog
 title: About business in Russia
 date: 2020-04-04
 categories: ["My Life"]
+tags: ["Notes"]
 excerpt: What do you think of the business? Do you think all businessmen are crooks and thieves? And in Russia, that’s what most people think…
 ---
 

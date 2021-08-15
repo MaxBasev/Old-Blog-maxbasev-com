@@ -1,8 +1,10 @@
 ---
 path: /Blink
+layout: blog
 title: Blink
 date: 2020-08-02
-categories: ["MyLife", "2020"]
+categories: ["Entertainment"]
+tags: ["Books & manga"]
 excerpt: "So, I decided that the blog is worth posting all sorts of reviews on books/movies and so on. In general, reviews on everything that I was interested in. Today will be a review of a book I recently read. Blink: The Power of Thinking Without Thinking by Malcolm Gladwell."
 ---
 

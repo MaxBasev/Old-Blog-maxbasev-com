@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage, GatsbyImage } from "gatsby-plugin-image"
+import profileImg from "../images/profile-img.jpg"
 
 const AppHeader = () => {
   return (
@@ -10,13 +11,10 @@ const AppHeader = () => {
       </button>
       <div className="d-flex flex-column">
         <div className="profile">
-          {/* <img src="assets/img/profile-img.jpg" alt="Max Basev profile photo" className="img-fluid rounded-circle">  */}
-          <StaticImage
-            className="img-fluid rounded-circle"
-            // layout="fixed"
-            // formats={["AUTO", "WEBP", "AVIF"]}
-            src="../images/profile-img.jpg"
+          <img
+            src={profileImg}
             alt="Max Basev profile photo"
+            className="img-fluid rounded-circle"
           />
           <h1 className="text-light">
             <a href="https://blog.maxbasev.com">Max Basev Blog</a>

@@ -1,8 +1,10 @@
 ---
 path: /About-my-daily-routines
+layout: blog
 title: About my daily routines
 date: 2020-05-27
-categories: ["My Life", "Self Development"]
+categories: ["Self Development", "My Life"]
+tags: ["Health", "Training"]
 excerpt: You know, I wanted to do a post about my daily routine. And generally about the benefits of that very routine, but I decided to google it, and what they write about it on the Internet. And I found this great article.
 ---
 

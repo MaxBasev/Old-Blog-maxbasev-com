@@ -1,16 +1,22 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
+import BlogPostTemplate from "../templates/blog-post"
+import kebabCase from "lodash/kebabCase"
 
-const TagsLayout = () => {
+const TagsLayout = ({ data, location }) => {
+  const post = data.markdownRemark
   return (
     <div className="d-flex">
       <nav className="tags-menu">
         <ul>
-          <li data-aos="fade-right" data-aos-delay="100">
-            <Link to="/">
-              <span> All posts</span>
-            </Link>
-          </li>
+          {post.frontmatter.tags.map(tag => (
+            <li data-aos="fade-right" data-aos-delay="100" key={tag.fieldValue}>
+              <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                {tag.fieldValue} ({tag.totalCount})
+              </Link>
+            </li>
+          ))}
+
           <li data-aos="fade-right" data-aos-delay="125">
             <Link to="/crypto/">
               <span>Cryptocurrency</span>
@@ -31,3 +37,18 @@ const TagsLayout = () => {
 }
 
 export default TagsLayout
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(limit: 2000) {
+      group(field: frontmatter___tags) {
+        fieldValue
+      }
+    }
+  }
+`

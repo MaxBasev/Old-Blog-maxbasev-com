@@ -1,8 +1,10 @@
 ---
 path: /A-few-words-about-Patreon-donates-and-support
+layout: blog
 title: A few words about Patreon, donates and support
 date: 2020-06-07
 categories: ["My Life", "Creativity"]
+tags: ["Diary"]
 excerpt: It’s a shame to get the donates. When I created the blog (maxbasev.com) I didn’t think to try to make money on my texts (on my nonsense). But somehow it so happened that after creating Patreon for my daily diary later I started to have subscribers. The first one was Heather, thanks Mom! And recently there were two more subscribers, thanks to you too!) In this post I want to talk about the attitude to this kind of thing in my country. I’m talking about donation, sponsorship and other types of support.
 ---
 

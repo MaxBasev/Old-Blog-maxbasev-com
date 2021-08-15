@@ -1,10 +1,10 @@
 ---
 path: /First-Post
+layout: blog
 title: First post
 date: 2020-03-24
-categories:
-  - MyLife
-  - "2020"
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Hey, everybody. My name is Max and I'm from Russia.
 featuredImage: 001-01-First-Post.jpg
 ---

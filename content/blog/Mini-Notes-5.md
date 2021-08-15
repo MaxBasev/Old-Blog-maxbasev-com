@@ -1,8 +1,10 @@
 ---
 path: /Mini-Notes-5
+layout: blog
 title: "Mini Notes #5"
 date: 2020-09-22
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: "Almost a whole month has passed since my last record. Unfortunately, I’m too busy with work to fully run my blog, but everything will get better soon!"
 ---
 

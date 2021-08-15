@@ -1,8 +1,10 @@
 ---
 path: /New-concept
+layout: blog
 title: New concept
 date: 2020-09-12
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project
 ---
 

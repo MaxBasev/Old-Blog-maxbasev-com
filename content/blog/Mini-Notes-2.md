@@ -1,8 +1,10 @@
 ---
 path: /Mini-Notes-2
+layout: blog
 title: "Mini Notes #2"
 date: 2020-08-08
-categories: ["MyLife", "2020"]
+categories: ["My Life"]
+tags: ["Notes"]
 excerpt: "Hello, everybody. The new post in my main blog, yeah-yeah, it’s the site I consider my main platform where I publish content. I hope that I will publish more and more posts, because the attendance of this blog is much worse than even Instagram or Facebook, not to mention Twitter and Patreon. I need to work on SEO, the quality of publications and their frequency."
 ---
 

@@ -1,8 +1,10 @@
 ---
+path: /for-banks-micro-financial-institutions-and-other-callers
 layout: blog
 title: For banks, micro-financial institutions and other callers
-date: 2021-04-14T09:49:36.739Z
+date: 2021-04-14
 categories: ["My Life"]
+tags: ["F**k you"]
 excerpt: If you are an employee of a bank/MFI/tax collector or any other similar "honor and evil", then this post is for you. More precisely, it is for you, if you are trying to call me, "write me a letter" or in any way to get in touch with me.
 ---
 

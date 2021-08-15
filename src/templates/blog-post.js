@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import PostLayout from "../components/post-layout"
 import Seo from "../components/seo"
+import AppHeader from "../components/header"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -12,6 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <PostLayout location={location} title={siteTitle}>
+      <AppHeader />
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
@@ -23,12 +25,26 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h5>
-            Categories:{" "}
-            {post.frontmatter.categories.map(category => (
-              <div>{category}</div>
-            ))}{" "}
-          </h5>
+          <container>
+            <row>
+              <div className="col-6">
+                <h4 className="categories-title">
+                  Categories:{" "}
+                  {post.frontmatter.categories.map(category => (
+                    <div className="categories-value">{category}</div>
+                  ))}{" "}
+                </h4>
+              </div>
+              <div className="col-6">
+                <h5 className="categories-title">
+                  Tags:{" "}
+                  {post.frontmatter.tags.map(tags => (
+                    <div className="tags-value">{tags}</div>
+                  ))}{" "}
+                </h5>
+              </div>
+            </row>
+          </container>
           <p>{post.frontmatter.date}</p>
         </header>
         <section
@@ -92,6 +108,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         categories
+        tags
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
