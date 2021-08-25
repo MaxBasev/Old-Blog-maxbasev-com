@@ -10,7 +10,7 @@ excerpt: A Russian guy who has a very poor knowledge of English decided to write
 
 > A Russian guy who has a very poor knowledge of English decided to write a book in English. Is he crazy? Let’s see, what’s he gonna do?
 
-PIC
+![Post about my book](../../images/uploads/003-Post-Book.png "Post about my book")
 
 ## I was already writing a book.
 

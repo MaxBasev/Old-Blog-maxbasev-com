@@ -35,19 +35,19 @@ Note that the cards are still divided into series and cards from Series 1, nowhe
 Quite simply, you sign up [at this link right here](http://bit.ly/2NyAfJR). Yes, referral, I know, but it's not hard for you, and it's nice for me:) Although so far the referral program does not give anything at all ... Well, let it be.\
 You'll see a screen like this.
 
-![](https://maxbasev.site/content/images/2021/02/NBA-Top-Shot-001-MaxBasev-com.jpg)
+![](../../images/uploads/NBA-Top-Shots/NBA-Top-Shot-001-MaxBasev-com.jpg)
 
 At the top of the Marketplace buy cards from other collectors.
 
-![](https://maxbasev.site/content/images/2021/02/NBA-Top-Shot-002-MaxBasev-com.jpg)
+![](../../images/uploads/NBA-Top-Shots/NBA-Top-Shot-002-MaxBasev-com.jpg)
 
 In Collection, admire your moments and show off to other players/friends/girlfriends.
 
-![](https://maxbasev.site/content/images/2021/02/NBA-Top-Shot-003-MaxBasev-com.jpg)
+![](../../images/uploads/NBA-Top-Shots/NBA-Top-Shot-003-MaxBasev-com.jpg)
 
 This is what the packs look like. Buying one is a big problem because of the queues, although the queues are honest and even seem to successfully fight the bots, but there are still too many people who want to buy one.
 
-![](https://maxbasev.site/content/images/2021/02/NBA-Top-Shot-004-MaxBasev-com.jpg)
+![](../../images/uploads/NBA-Top-Shots/NBA-Top-Shot-004-MaxBasev-com.jpg)
 
 ## Are there any results? Prove it!
 

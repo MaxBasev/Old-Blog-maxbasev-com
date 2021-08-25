@@ -10,7 +10,7 @@ excerpt: What do you think of the business? Do you think all businessmen are cro
 
 > What do you think of the business? Do you think all businessmen are crooks and thieves? And in Russia, that’s what most people think…
 
-PIC
+![Post about business in Russia](../../images/uploads/004-Post-Business.png "Post about business in Russia")
 Who can read the inscription on the T-shirt? xD
 
 ## The Coronovirus. The economy. Business and support from the state.

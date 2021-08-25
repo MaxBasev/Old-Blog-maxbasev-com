@@ -10,7 +10,7 @@ excerpt: "In this post, there will be little notes on everything that happens to
 
 > Well, it’s been a few days since my first post was published, and nobody’s seen or read it yet. So it’s time for post two!
 
-PIC
+![Post Two Smile](../../images/uploads/002-01-Post-Two-Smile.png "Post Two Smile")
 A little more of my “art”
 
 In this post, there will be little notes on everything that happens to me and around me.
@@ -23,7 +23,7 @@ Although the pills seem to have helped lower the temperature a little. Let’s s
 
 In general, in Russia, the attitude towards COVID-19 is very strange, for example, people were told about quarantine and pandemic, and they continue to walk around the city and shopping malls. They’re idiots… Many people do not believe in the virus at all and consider it “propaganda of enemies”! I guess they also wear foil hats…
 
-PIC
+![Post Two Propoganda](../../images/uploads/002-02-Post-Two-Propoganda.png "Post Two Propoganda")
 I think they look something like this…
 
 I think the fate of Italy awaits us. It’s scary.
