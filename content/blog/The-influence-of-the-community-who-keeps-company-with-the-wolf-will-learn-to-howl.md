@@ -10,6 +10,8 @@ excerpt: Does the community form a person’s personality, or does the person ch
 
 > Does the community form a person’s personality, or does the person choose a circle of communication based on the inherent traits?
 
+![The influence of the community](../../images/uploads/014-01-My-Entourage.jpg "The influence of the community")
+
 There are two obvious points of view here:
 
 - talents and character are embedded in a person from birth, choosing people, he or she seeks to make up for missing skills or find support;
@@ -45,6 +47,8 @@ And one more, control question.
 - Do people around you help you develop and grow in your chosen direction?
 
 The answers to these questions allow you to make a small analysis of your own life and from the other side to look at the impact of your immediate community. If you are standing still and no one can help you, much less support you, the answer is obvious. Think about expanding or changing your circle, as the influence of your immediate entourage is currently destroying your personality.
+
+![The influence of the community](../../images/uploads/014-02-My-Entourage.png "The influence of the community")
 
 ## Change the community: cardinal actions
 

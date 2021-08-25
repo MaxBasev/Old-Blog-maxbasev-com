@@ -17,8 +17,10 @@ So I don’t think it makes much sense to write anew about “what is daily rout
 For me it all started with “The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)” by Hal Elrod.
 
 Yeah, I know a lot of people say that his book is slag, but there is an opposite opinion – mine.=)
-PIC
-About my daily routines
+
+![About my daily routines](../../images/uploads/011-Routines.jpg "About my daily routines")
+_About my daily routines_
+
 The idea of getting up at 5 a.m. is not new to me, and I’ve had periods before when I got up. For example, for jogging or to play on the computer (you don’t have to do that, it’s not the reason to wake up early), etc. However, the book does not just say “Wake up at five in the morning!” No, it describes many useful morning habits that eventually turn into a daily morning routine.
 
 The first morning after reading the book, I jumped right out of bed. The mood was very positive and I thought I would do everything I wanted to do in a week in one day. Spoiler: I was right.=)

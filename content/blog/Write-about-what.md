@@ -11,6 +11,8 @@ excerpt: What should I write about? Where to get a topic for a post on Instagram
 > What should I write about? Where to get a topic for a post on Instagram (for example)? What if I’m boring?
 > ©Max Basev _in a fit of panic_
 
+![Write about what](../../images/uploads/016-Typewriter.jpg "Write about what")
+
 Hello, everybody. I decided to write another post here but with a little thought about the topic, what to write about? Where can I get the theme for the post? What if there’s nothing to write about? Let’s think about it.
 
 I have been taking a course on Storytelling from one portal for a long time (they had a sale for 700 rubles, I got it, I thought maybe something good would happen, but it turned out to be very bad) and there is a similar topic – “How to find a theme for history”. I will not write here all that banal that in that lesson is written, suddenly the owners of the portal will be offended and for violation of rights will block me. But they write about this idea from Annette Simmons’ book “Storitelling”:

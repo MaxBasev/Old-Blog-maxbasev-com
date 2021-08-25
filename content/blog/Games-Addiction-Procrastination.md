@@ -10,6 +10,8 @@ excerpt: It’s been a long time since I wanted to write this post, so I finally
 
 _It’s been a long time since I wanted to write this post, so I finally decided. We are talking about computer games, pleasures, addiction and everything that is associated with these things._
 
+![Games. Addiction. Procrastination](../../images/uploads/013-01-Games.jpg "Games. Addiction. Procrastination")
+
 ## Why do I play computer games?
 
 The first game I played on computer was “Digger”. I think I was 5 or 6 years old and played at my dad’s work. Then there was “Nebulus” about the funny frog, and then there was “Doom” and “WarCraft” (of course there was “Duna 2000” and “Z” and more), which I remember the most. At that time, I was playing at first, and then I realized I wanted to make those games myself.By the way, I did a couple of games in my life, but they were as simple as possible (I don’t take iOS development work into account, there were not games, but trash). As a result, at that age I knew exactly what I wanted to make games, so I had to learn to be a programmer. Well, I learned in the end. But then it turned out that it wasn’t just programmers who made the games (yeah, Kojima’s a genius!) and I got a little chilled for programming, although it’s still one of the main sources of income, even if it’s now in the form of web development.=) Okay, enough with the stories. Why am I playing?
@@ -35,6 +37,8 @@ At school I had a friend, a very enthusiastic man, he loved games a lot. Now, as
 Value your time. Play moderately and for fun.
 
 ## What do we do? Cardinal measures?
+
+![Games. Addiction. Procrastination](../../images/uploads/013-02-Games.jpg "Games. Addiction. Procrastination")
 
 Well, as for me, I’ve already tried cardinal measures and in general they worked. When we first started the business with my other co-founder (Kirya, hello!). We agreed that until we reach a sufficient level of income to exist – we are not playing games at all. Not at all, never. Well, in the end, about 8 months there were no games on my computer.) Yes, it helped, but the joy in life was a little less, and free time not to say that much more.
 

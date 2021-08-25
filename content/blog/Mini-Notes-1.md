@@ -8,6 +8,8 @@ tags: ["Notes"]
 excerpt: Today there will be a small post, as we call it in our country “for the evil of the day”. I will argue a little about the situation in the country, stupid youth and all that.
 ---
 
+![Mini Notes #1](../../images/uploads/015-I-EVIL.jpg "Mini Notes #1")
+
 Today there will be a small post, as we call it in our country “for the evil of the day”. I will argue a little about the situation in the country, stupid youth and all that.
 
 **I’ll start with such a phenomenon on Russian** ( yeah, I think it’s not just on Russian) YouTube, as REVELATION. It’s a genre in which various idiots, instead of making some original content – talk about the content of another blogger. Most often with a negative connotation. And I don’t know why, but YouTube decided that I might be interested in this kind of stuff and now this kind of stuff keeps popping up in recommendations. It’s sad.In fact, most of these whistleblowers are nothing, that’s just nothing. But they do harm to people who really try and make some original content. Yes, they may not be able to do it, but at least they’re trying! It’s not difficult at all to record – a review of someone’s work and water the dirt on a person, do things for 20 minutes to make such a video, but they can’t come up with something original – the whistleblowers can’t.I didn’t want to write something like that here, but YouTube made me do it.=)))
