@@ -13,8 +13,9 @@ This will be a short post, and I’ll do the blog (as much and as often as possi
 The year is ending and my progress in gaining weight is still as sad as ever.
 Here’s a spreadsheet of my measurements for 2016, 2018, and this year.
 
-PIC
-Damn!
+![Measurements, workouts, and weight](../../images/uploads/030-Table-measurements.jpg "Measurements, workouts, and weight")
+_Damn!_
+
 More specifically, what’s left of last year. I lost weight!!! I need to gain weight, not lose it… Holy crap!
 
 I don’t eat enough? I always eat until satiated, most of the time it’s a healthy food, no fast food, etc.

@@ -8,6 +8,8 @@ tags: ["Notes"]
 excerpt: Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project
 ---
 
+![New concept](../../images/uploads/027-New-Concept.png "New concept")
+
 Recently, due to the increasing stress and permanent debt pressure, I’m increasingly starting to think about my project (this blog). What benefits does it bring? – **Nothing**. Who would be interested in it? – **No one**.
 In my dream…
 The original idea was to create a blog with motivational stories about how I overcome difficulties and get out of debt, but so far I just keep falling further and further down. I don’t think anyone would want to read the stories of a loser, at least on a permanent basis. How can I be useful to society and readers? How can I help specifically you (each of you)?

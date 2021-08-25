@@ -24,6 +24,8 @@ The symbol of this cult was chosen quite an interesting triquetra (you can read 
 
 Btw, yeah, this is NOT a symbol from the well-known serials! The authors of the serials just brazenly plagiarized the symbol of the ancient Slavs and came up with a completely wrong meaning for it.
 
+![Foundation Logo](../../images/uploads/well_logo_foundation.png "Foundation Logo")
+
 ## About any business
 
 I try to reduce the number of projects. Separate among all my cases – the most important, remove all unnecessary (for a while or forever) and concentrate only on a small number of the most important cases. Because recent years have shown that if you do a lot of different projects a little bit, none of them will eventually achieve any significant success.
