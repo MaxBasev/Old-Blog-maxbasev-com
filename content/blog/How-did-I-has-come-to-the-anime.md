@@ -22,6 +22,7 @@ It all started with Web-Stream…
 
 As I said above – I had access to EC resources, and most importantly to their game server, then popular MMORPG, Lineage 2 (the chronicles were C4). Eh, nostalgia! The game on Elnadrion was, perhaps, the best of all my subsequent visits to the servers of Lineage 2.
 
+![Elndarion](../../images/uploads/018-01-Lineage-2.gif "Elnadrion")
 _Max Basev aka Naard. Elnadrion. DarkMessiah._
 
 Yeah, it was still a Naard nickname at the time. =D And there was a fashion to smear the layouts of skills.
@@ -31,6 +32,7 @@ Yeah, I used to have all sorts of comic books when I was a kid, Indiana Jones st
 
 Yeah, I got screwed over and it’s Death Note’s fault. And then it started, a continuous stream of “Chinese cartoons”, just a giant number of watched series, by time, probably equals only thousands of hours in Lineage 2.
 
+![Death Note](../../images/uploads/018-02-Death-Note-unofficial-manga.jpg "There are still “those” ancient manga volumes. It’s not even official…")
 _There are still “those” ancient manga volumes. It’s not even official…_
 
 I still remember the Demon Prince Enma OVA 2006 – for me at the time, it was just super, on par with Hellsing and the Ninja Manuscript.

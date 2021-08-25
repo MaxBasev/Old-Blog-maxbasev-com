@@ -8,6 +8,8 @@ tags: ["Reviews"]
 excerpt: "As I wrote yesterday in my diary at Patreon, today there will be a small post about how I organized my work (if it can be called a work at all) and how I manage to work on at least 8 projects in 1 day. To be honest, I can hardly keep up and have to work 10-12 hours a day, but everything is quite fast and productive."
 ---
 
+![Todorant](../../images/uploads/023-01-Todorant.png "Todorant")
+
 As I wrote yesterday in my diary at Patreon, today there will be a small post about how I organized my work (if it can be called a work at all) and how I manage to work on at least 8 projects in 1 day. To be honest, I can hardly keep up and have to work 10-12 hours a day, but everything is quite fast and productive.
 
 What is the main idea
@@ -37,7 +39,9 @@ Here, this was the first item. Next, with the help of the Todorant service, I ma
 
 Why Todorant? I don’t know myself, but it helps me to see only one current problem and not think about the others. I used to have a lot of free time, a lot of things to do, but I sat and did nothing because I just didn’t know what to do in the first place. Now, when there is a clear plan and I see ONLY one current task, everything is much easier. Before that I had tasks written in a big diary – it didn’t work, I just closed it and cleaned it on the edge of the table. Maybe it’s magic? Or maybe I was just pressed against the wall by circumstances, but my productivity really became 100% per day.
 
-Bye-bye
+![Todorant](../../images/uploads/023-02-Todorant.jpg "Todorant")
+_Bye-bye_
+
 In the future, I plan to transfer all tasks for each project to Todorant. Since I now check each item with a Google table or with Notion. For example, 10:00 – My sites. Site #6, I will put it in the table and look at a list of everything that can and should be done there and do it in order. It will take a long time to transfer it all by hand, and I don’t have much idea how to distribute it all for at least a week, but I will study it and think I can do it.
 
 The creator of Todorant has great respect! Although I was one of the first users, I came to use the service in the end only with the fourth attempt.

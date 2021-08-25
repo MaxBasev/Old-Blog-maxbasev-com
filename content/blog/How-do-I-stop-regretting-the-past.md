@@ -8,6 +8,8 @@ tags: ["Notes"]
 excerpt: "Have you ever thought about what would happen if you had the opportunity to start your life over? Or from any previous segment of it? Perhaps you could have avoided the huge number of mistakes you made or achieved more. Yes, if I had known about bitcoin at the time when I had a lot of it – I would never have sold it then.=) What I’m getting at is that I regret too much about my past mistakes and it’s terrible. "
 ---
 
+![How do I stop regretting the past](../../images/uploads/019-How-do-I-stop-regretting-the-past.png "How do I stop regretting the past")
+
 Have you ever thought about what would happen if you had the opportunity to start your life over? Or from any previous segment of it? Perhaps you could have avoided the huge number of mistakes you made or achieved more. Yes, if I had known about bitcoin at the time when I had a lot of it – I would never have sold it then.=) What I’m getting at is that I regret too much about my past mistakes and it’s terrible.
 
 ## How do I stop regretting the past?

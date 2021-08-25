@@ -8,9 +8,11 @@ tags: ["Movies & Anime"]
 excerpt: "A new post with reviews of the films I’ve seen in recent days."
 ---
 
+![Movie Review #2](../../images/uploads/Movies-Review.png "Movie Review #2")
+
 A new post with reviews of the films I’ve seen in recent days.
 
-Previous part here.
+Previous part [here](/Movie-Review-1).
 
 ## Apostle
 

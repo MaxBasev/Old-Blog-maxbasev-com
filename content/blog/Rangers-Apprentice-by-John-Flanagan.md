@@ -8,6 +8,8 @@ tags: ["Books & manga"]
 excerpt: "Tuesday will be the day of books. So a little feedback on what I read last week. And I read, or rather listened to it in the audio version, the first four books from Ranger’s Apprentice series by John Flanagan."
 ---
 
+![Ranger's Apprentice by John Flanagan](../../images/uploads/022-Rangers-Apprentice.jpg "Ranger's Apprentice by John Flanagan")
+
 Tuesday will be the day of books. So a little feedback on what I read last week. And I read, or rather listened to it in the audio version, the first four books from Ranger’s Apprentice series by John Flanagan. To start with, as usual, from the [author’s website](http://www.worldofjohnflanagan.com/books/the-ruins-of-gorlan/) I will put out a description, so that you do not go back and forth.
 
 > They have always scared him in the past-the Rangers, with their dark cloaks and shadowy ways. The villagers believe the Rangers practice magic that makes them invisible to ordinary people. And now 15-year-old Will, always small for his age, has been chosen as a Ranger’s apprentice. What he doesn’t yet realize is that the Rangers are the protectors of the kingdom. Highly trained in the skills of battle and surveillance, they fight the battles before the battles reach the people. And as Will is about to learn, there is a large battle brewing. The exiled Morgarath, Lord of the Mountains of Rain and Night, is gathering his forces for an attack on the kingdom. This time, he will not be denied. . . .

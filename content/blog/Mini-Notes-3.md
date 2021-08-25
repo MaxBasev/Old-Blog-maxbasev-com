@@ -8,6 +8,8 @@ tags: ["Notes"]
 excerpt: I think you have already noticed – there were no posts from me this week..
 ---
 
+![Mini Notes #3](../../images/uploads/016-Typewriter.jpg "Mini Notes #3")
+
 I think you have already noticed – there were no posts from me this week. Apparently, it is because I am a “lazy bun”… Or maybe it’s a prokrastination? It is necessary to understand the difference of these terms at leisure.
 Well, now, Mini Notes #3.
 
@@ -22,6 +24,11 @@ Perhaps that’s all about me so far.
 
 Yesterday I watched a webinar about personal brand development from scratch. As I thought, my main problem is that there is no specific topic. My blog is boring to read, if you do not know me personally, ie all those who just go into my social networks or my blog – my posts seem to be notes crazy. With this you need to do something, and to do this you need to answer the question. What can I do for people? What can I do for you specifically?
 For example, in my Instagram and Twitter I updated my profile like this:
+
+![Mini Notes #3](../../images/uploads/Mini-Notes-03-02.jpg "Mini Notes #3")
+_Instagram_
+![Mini Notes #3](../../images/uploads/Mini-Notes-03-03.jpg "Mini Notes #3")
+_Twitter_
 
 Maybe you can give me some advice?
 
