@@ -10,6 +10,8 @@ excerpt: When you take a shower, sometimes you get such brilliant ideas that you
 
 > When you take a shower, sometimes you get such brilliant ideas that you can immediately hope for the Nobel Prize. It’s a shame I forget them right away.
 
+![Thoughts from the shower 001](../../images/uploads/007-01-Post-Just-Post.png "Thoughts from the shower 001")
+
 Here’s the deal. I was taking a shower. It was unexpected, wasn’t it? And I had an idea in my head, but I naturally forgot it. It’s sad. I should’ve written it down right away… So I decided to add a section like that to my blog in English. “Thoughts from the Shower”, in Russia this phraseology is quite popular.
 
 ## What are “Thoughts from the shower”?
@@ -20,7 +22,7 @@ Recently, it has become particularly popular to share your insight, even in indi
 As a result, I called this section “Thoughts from the Shower”.
 I was bored and my crooked hands tried to depict it in a small сomic strip…
 
-PIC
+![Thoughts from the shower 002](../../images/uploads/007-02-Post-Just-Post.jpg "Thoughts from the shower 002")
 Small comic strip “Thoughts from the shower”…
 Have you ever had any interesting thoughts while taking a shower, or maybe you have found an answer to a question that has long tormented you?
 

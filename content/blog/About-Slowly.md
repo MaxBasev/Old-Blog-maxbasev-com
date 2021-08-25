@@ -12,6 +12,8 @@ excerpt: Social networks have ruined communication at a distance and the epistol
 
 Nowadays it is enough to click on an icon a couple of times and your message is already reading on the other side of the world. Or you’re on a video call, or maybe even watching a stream together. Communicating with friends has become easier, but something’s missing…
 
+![Post about Slowly](../../images/uploads/005-Post-Slowly.png "Post about Slowly")
+
 ## The wait is gone
 
 Well, there really are no limits to the work now, but the epistolary genre is dead. And Slowly decided to bring it back to life.

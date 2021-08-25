@@ -8,11 +8,13 @@ tags: ["Notes"]
 excerpt: Well, it’s time to write a little about business and money and everything I love so much. At the end of the article, I’m gonna throw in a few ideas for business at home during all this quarantine craziness.
 ---
 
+![Business ideas to start from home](../../images/uploads/009-01-About-Work.jpg "Business ideas to start from home 001")
+
 Well, it’s time to write a little about business and money and everything I love so much. At the end of the article, I’m gonna throw in a few ideas for business at home during all this quarantine craziness.
 
 ## Briefly about business in Russia
 
-PIC
+![Business ideas to start from home](../../images/uploads/009-02-About-Work.jpg "Business ideas to start from home 002")
 
 Nassim Nicholas Taleb wrote such a book called “Skin in the Game” in Russia it’s translated as “Risking with your own skin”. I haven’t read it myself yet, and in general I’ve only read “Black Swan” and “Antifragility” from Taleb, but judging by the title – a book directly about Russia. Every businessman in Russia “risks his own skin”, even if he has a simple coffee shop. Businessman faces many dangers: tax authorities, various regulatory bodies, police, firefighters, and in general, ALL who have any power. This is very strange, because the authorities should not behave like this, right? Yes, but it turns out the other way round. Why do we have so few companies working “in white” and paying taxes. It’s because of the stupid system!
 It’s impossible to earn a lot of money honestly in Russia. How many companies like Google, Amazon, Apple, Samsung do you know from Russia? I don’t know one. All our “property” is stupid oil and gas, which are pumped out by corrupt creatures.
@@ -27,7 +29,9 @@ By the way, is competition in Russia? That’s crazy. Whoever has better connect
 ## What am I doing?
 
 This blog, I think, should turn from a blog about “How bad is Russia” into a blog about “I’m getting out of here soon”. Like a diary of a man who has nothing, but is trying to get out of all this darkness. Some kind of experiment? Then I think I should enter some initial data in the next post. Well, for the experiment to be more real. What do you think?
-PIC
+
+![Business ideas to start from home](../../images/uploads/009-03-About-Work.jpg "Business ideas to start from home 003")
+
 _I will make this world a better place!_
 So far I’ve decided to try my hand at freelance, but look for orders abroad. I’ve decided to start with Fiverr. I wonder if there’s as much competition as anywhere else.
 

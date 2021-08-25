@@ -11,6 +11,8 @@ excerpt: Pleasure is not the cause of happiness; rather, it is the effect.
 > Pleasure is not the cause of happiness; rather, it is the effect.
 > ©Mark Manson
 
+![Post just Post](../../images/uploads/006-Post-Just-Post.png "Post just Post")
+
 Hey, everybody. It’s been a week since my last post. So it’s time for a new one. Here we go!
 
 I’ve been sketching out a little plan for this message. So let’s go over the items.

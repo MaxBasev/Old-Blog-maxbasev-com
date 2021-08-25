@@ -11,6 +11,8 @@ excerpt: Have you ever said anything stupid and then been embarrassed? Anyway, I
 > Shame is a soul eating emotion.
 > © Carl Gustav Jung
 
+![Shame](../../images/uploads/010-01-Max-Just-Fun.jpg "Shame 001")
+
 ## Part 1. What am I talking about?
 
 Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen?
@@ -20,7 +22,8 @@ It’s probably the country I live in. We have the most impudent and immodest pe
 
 A humble, boring, grey man is 100% about me.
 
-PIC
+![Shame](../../images/uploads/010-02-Max-Just-Fun.jpg "Shame 002")
+
 About shame - comics
 
 ## Part 2. Is it bad to be an introvert?
