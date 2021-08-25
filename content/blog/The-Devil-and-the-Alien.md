@@ -19,7 +19,8 @@ The Devil sat on his throne in hell as usual .
 Turning on his specular seer, the Devil stared at the screen. It was night in the city, streets were empty and even the lights were turned off for some reason. Having looked through images of the streets, the Devil had already decided to turn off the seer, but then his attention was attracted by a luminous elongated silhouette at one of the windows.
 
 "What is that thing?" - muttered the Lord of Hell, peering at the screen. There really was a "thing": an elongated silhouette, all as if doused with phosphorus, instead of a head there was a ball, and its arms, disproportionately long relative to the whole body, dragged along the ground.
-![The Devil and the Alien](../../images/uploads/The-Devil-and-the-Alien/Devil_alias_002.jpg "The Devil and the Alien Pic 2")
+![The Devil and the Alien](../../images/uploads/The-Devil-and-the-Alien/Devil_Alias_002.jpg "The Devil and the Alien Pic 2")
+
 "Dang it! It is really an alien! — The devil began to dress quickly - This alien will provoke a commotion in the Hell by souls of people gone crazy."
 Gathering up and taking a pitchfork with him, the Lord of Hell grunted a spell and teleported to the city.
 
