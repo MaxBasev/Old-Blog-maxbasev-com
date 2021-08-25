@@ -11,7 +11,7 @@ featuredImage: 001-01-First-Post.jpg
 
 > I thought long and hard about how to start the first post, so I decided not to complicate it.
 
-![My First Post Image](/images/uploads/001-01-first-post.jpg "My First Post")
+![My First Post Image](../../images/uploads/001-01-first-post.jpg "My First Post")
 
 Hey, everybody. My name is Max and I'm from Russia. On this blog I will write about life in my country, about my work, my attempts to move to Canada and much more. And also this blog is a kind of my workbook as I know English very badly and with the help of my "writing" I hope to bring it up to an acceptable level. (I would be very grateful if you could point out any mistakes)
 
@@ -34,4 +34,4 @@ Well, somehow, I don't even know what else to add here. Anyway, I'm glad to make
 
 P.S. Sorry for my bad English ^^
 
-![First Post Smile](/images/uploads/001-02-first-post-smile.png "Comix? Traaaash")
+![First Post Smile](../../images/uploads/001-02-first-post-smile.png "Comix? Traaaash")
