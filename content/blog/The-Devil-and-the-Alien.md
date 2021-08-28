@@ -2,7 +2,7 @@
 path: /The-Devil-and-the-Alien
 layout: blog
 title: The Devil and the Alien
-date: 2020-11-11
+date: 2021-05-11
 categories: ["Creativity"]
 tags: ["My books"]
 excerpt: "Just a fan story by me"
