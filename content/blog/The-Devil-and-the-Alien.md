@@ -8,6 +8,13 @@ tags: ["My books"]
 excerpt: "Just a fan story by me"
 ---
 
+A little clarification. At one time I took a course in writing skills, imagination and all that. There was an assignment to send in some emojis and then write a story based on that row of emojis.
+
+_That's what the row was._
+![The Emojis Row](../../images/uploads/The-Devil-and-the-Alien/Smiles.jpg "The Emojis Row")
+
+## And here's what came out.
+
 ![The Devil and the Alien](../../images/uploads/The-Devil-and-the-Alien/Devil_alias_001.jpg "The Devil and the Alien Pic 1")
 
 The Devil sat on his throne in hell as usual .
