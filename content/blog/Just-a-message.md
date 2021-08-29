@@ -6,6 +6,7 @@ date: 2020-04-17
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Pleasure is not the cause of happiness; rather, it is the effect.
+featuredImage: ../../images/uploads/006-Post-Just-Post.png
 ---
 
 > Pleasure is not the cause of happiness; rather, it is the effect.

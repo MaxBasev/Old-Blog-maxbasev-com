@@ -6,6 +6,7 @@ date: 2020-09-22
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: "Almost a whole month has passed since my last record. Unfortunately, I’m too busy with work to fully run my blog, but everything will get better soon!"
+featuredImage: ../../images/uploads/016-Typewriter.jpg
 ---
 
 ![Mini Notes #5](../../images/uploads/016-Typewriter.jpg "Mini Notes #5")

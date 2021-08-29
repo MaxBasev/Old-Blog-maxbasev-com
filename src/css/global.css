@@ -348,6 +348,10 @@ h6 {
   }
 }
 
+.card {
+  width: 800px;
+}
+
 .row {
   margin-right: 0px;
   padding-right: 0px;
@@ -362,6 +366,16 @@ h6 {
   background-size: cover;
   background-padding: 0;
   background-margin: 0;
+}
+
+.img-post-list {
+  border: 5px #7800ff solid;
+  width: 250px;
+  float: left;
+}
+
+.img-post-description {
+  float: left;
 }
 
 /*--------------------------------------------------------------

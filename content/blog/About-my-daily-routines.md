@@ -6,6 +6,7 @@ date: 2020-05-27
 categories: ["Self Development", "My Life"]
 tags: ["Health", "Training"]
 excerpt: You know, I wanted to do a post about my daily routine. And generally about the benefits of that very routine, but I decided to google it, and what they write about it on the Internet. And I found this great article.
+featuredImage: ../../images/uploads/011-Routines.jpg
 ---
 
 You know, I wanted to do a post about my daily routine. And generally about the benefits of that very routine, but I decided to google it, and what they write about it on the Internet. And I found this great article.

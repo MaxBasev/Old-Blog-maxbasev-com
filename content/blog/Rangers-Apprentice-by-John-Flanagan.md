@@ -6,6 +6,7 @@ date: 2020-08-18
 categories: ["Entertainment"]
 tags: ["Books & manga"]
 excerpt: "Tuesday will be the day of books. So a little feedback on what I read last week. And I read, or rather listened to it in the audio version, the first four books from Ranger’s Apprentice series by John Flanagan."
+featuredImage: ../../images/uploads/022-Rangers-Apprentice.jpg
 ---
 
 ![Ranger's Apprentice by John Flanagan](../../images/uploads/022-Rangers-Apprentice.jpg "Ranger's Apprentice by John Flanagan")

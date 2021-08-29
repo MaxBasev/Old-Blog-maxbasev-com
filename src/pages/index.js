@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -32,15 +33,46 @@ const BlogIndex = ({ data, location }) => {
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {
             const title = post.frontmatter.title || post.fields.slug
+            let featuredImgFluid =
+              post.frontmatter.featuredImage.childImageSharp.fluid
 
             return (
               <li key={post.fields.slug}>
                 <article
-                  className="post-list-item"
+                  // className="post-list-item"
+                  className="card mb-3"
                   itemScope
                   itemType="http://schema.org/Article"
                 >
-                  <header>
+                  <div className="row g-0">
+                    <div class="col-md-4">
+                      <Img
+                        fluid={featuredImgFluid}
+                        className="img-fluid rounded-start"
+                      />
+                    </div>
+                    <div className="col-md-8">
+                      <div className="card-body">
+                        <header>
+                          <h2>
+                            <Link to={post.fields.slug} itemProp="url">
+                              <span itemProp="headline">{title}</span>
+                            </Link>
+                          </h2>
+                          <small>{post.frontmatter.date}</small>
+                        </header>
+                        <p
+                          dangerouslySetInnerHTML={{
+                            __html:
+                              post.frontmatter.description || post.excerpt,
+                          }}
+                          itemProp="description"
+                          className="img-post-description"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  {/* <header>
                     <h2>
                       <Link to={post.fields.slug} itemProp="url">
                         <span itemProp="headline">{title}</span>
@@ -49,13 +81,15 @@ const BlogIndex = ({ data, location }) => {
                     <small>{post.frontmatter.date}</small>
                   </header>
                   <section>
+                    <Img fluid={featuredImgFluid} className="img-post-list" />
                     <p
                       dangerouslySetInnerHTML={{
                         __html: post.frontmatter.description || post.excerpt,
                       }}
                       itemProp="description"
+                      className="img-post-description"
                     />
-                  </section>
+                  </section> */}
                 </article>
               </li>
             )
@@ -85,6 +119,13 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          featuredImage {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }

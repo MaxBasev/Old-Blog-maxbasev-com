@@ -6,6 +6,7 @@ date: 2020-08-29
 categories: ["Entertainment"]
 tags: ["Movies & Anime"]
 excerpt: "So, I wanted to write this post long ago, last week. A post about the films I’ve recently seen, but last week I didn’t have time to do it, but there’s a lot more to write about."
+featuredImage: ../../images/uploads/Movies-Review.png
 ---
 
 ![Movie Review #1](../../images/uploads/Movies-Review.png "Movie Review #1")

@@ -6,6 +6,7 @@ date: 2020-04-01
 categories: ["My Life", "Creativity"]
 tags: ["My books"]
 excerpt: A Russian guy who has a very poor knowledge of English decided to write a book in English. Is he crazy? Let’s see, what’s he gonna do?
+featuredImage: ../../images/uploads/003-Post-Book.png
 ---
 
 > A Russian guy who has a very poor knowledge of English decided to write a book in English. Is he crazy? Let’s see, what’s he gonna do?

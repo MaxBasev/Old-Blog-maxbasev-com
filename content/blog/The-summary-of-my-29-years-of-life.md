@@ -6,6 +6,7 @@ date: 2020-10-10
 categories: ["My Life"]
 tags: ["Diary"]
 excerpt: "On January 8 of this year I turned 30 years old. To be honest – I never liked my birthday… But anyway, I decided to take stock of my 29th year of life. Yep, it was a bad year (if anyone doesn’t want to read the details, here are some spoilers – it was a really bad year)."
+featuredImage: ../../images/uploads/015-I-EVIL.jpg
 ---
 
 ![The summary of my 29 years of life](../../images/uploads/015-I-EVIL.jpg "The summary of my 29 years of life")

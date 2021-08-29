@@ -6,6 +6,7 @@ date: 2020-04-10
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Social networks have ruined communication at a distance and the epistolary genre has died.
+featuredImage: ../../images/uploads/005-Post-Slowly.png
 ---
 
 > Social networks have ruined communication at a distance and the epistolary genre has died.

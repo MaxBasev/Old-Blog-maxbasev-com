@@ -6,6 +6,7 @@ date: 2020-08-19
 categories: ["My Life"]
 tags: ["Reviews"]
 excerpt: "As I wrote yesterday in my diary at Patreon, today there will be a small post about how I organized my work (if it can be called a work at all) and how I manage to work on at least 8 projects in 1 day. To be honest, I can hardly keep up and have to work 10-12 hours a day, but everything is quite fast and productive."
+featuredImage: ../../images/uploads/023-01-Todorant.png
 ---
 
 ![Todorant](../../images/uploads/023-01-Todorant.png "Todorant")

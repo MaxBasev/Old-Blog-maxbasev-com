@@ -6,6 +6,7 @@ date: 2020-09-04
 categories: ["Entertainment"]
 tags: ["Movies & Anime"]
 excerpt: "A new post with reviews of the films I’ve seen in recent days."
+featuredImage: ../../images/uploads/Movies-Review.png
 ---
 
 ![Movie Review #2](../../images/uploads/Movies-Review.png "Movie Review #2")

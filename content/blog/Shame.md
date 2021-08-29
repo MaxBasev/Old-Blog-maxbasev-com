@@ -6,6 +6,7 @@ date: 2020-05-11
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Have you ever said anything stupid and then been embarrassed? Anyway, I’ve had it. Did you remember those moments a year later? Or two years later? Or even ten years? Why does that happen?
+featuredImage: ../../images/uploads/010-01-Max-Just-Fun.jpg
 ---
 
 > Shame is a soul eating emotion.

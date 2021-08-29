@@ -6,6 +6,7 @@ date: 2020-04-28
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Our whole life is built on needs. Yes, everyone sees and presents them in their own way. Some people have dreams in their hearts since childhood, but others, on the contrary, live real life, day after day immersed in the abyss of routine. However, even the second one once had a dream that most likely did not come true. So what is a dream? First of all, it’s the desire to satisfy your need, which comes from the lack of something.
+featuredImage: ../../images/uploads/008-All-of-My-Target.jpg
 ---
 
 > There are people that live without any goal, pass in the world like blades in a river: they don’t go, they are carried

@@ -6,6 +6,7 @@ date: 2020-04-28
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: When you take a shower, sometimes you get such brilliant ideas that you can immediately hope for the Nobel Prize. It’s a shame I forget them right away.
+featuredImage: ../../images/uploads/007-01-Post-Just-Post.png
 ---
 
 > When you take a shower, sometimes you get such brilliant ideas that you can immediately hope for the Nobel Prize. It’s a shame I forget them right away.

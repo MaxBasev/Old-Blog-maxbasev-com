@@ -6,6 +6,7 @@ date: 2020-09-18
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: "I have no free time at all during the last week and the one that appears I spend on walks with my wife. Soon it will be very cold weather and we will walk much less – we use the last good days.As I wrote earlier in my Patreon – with the help of my father (thanks to him very much!), I found a way out of the bankruptcy situation."
+featuredImage: ../../images/uploads/016-Typewriter.jpg
 ---
 
 ![Mini Notes #4](../../images/uploads/016-Typewriter.jpg "Mini Notes #4")

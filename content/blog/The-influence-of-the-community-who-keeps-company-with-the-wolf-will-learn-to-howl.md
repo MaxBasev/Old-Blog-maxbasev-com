@@ -6,6 +6,7 @@ date: 2020-06-12
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Does the community form a person’s personality, or does the person choose a circle of communication based on the inherent traits?
+featuredImage: ../../images/uploads/014-01-My-Entourage.jpg
 ---
 
 > Does the community form a person’s personality, or does the person choose a circle of communication based on the inherent traits?

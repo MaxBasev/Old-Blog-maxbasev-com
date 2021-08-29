@@ -6,6 +6,7 @@ date: 2020-09-03
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: I think you have already noticed – there were no posts from me this week..
+featuredImage: ../../images/uploads/016-Typewriter.jpg
 ---
 
 ![Mini Notes #3](../../images/uploads/016-Typewriter.jpg "Mini Notes #3")

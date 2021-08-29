@@ -6,6 +6,7 @@ title: "Post two. About health, my country and my book"
 categories: ["My Life"]
 tags: ["Diary", "Notes"]
 excerpt: "In this post, there will be little notes on everything that happens to me and around me.."
+featuredImage: ../../images/uploads/002-01-Post-Two-Smile.png
 ---
 
 > Well, it’s been a few days since my first post was published, and nobody’s seen or read it yet. So it’s time for post two!

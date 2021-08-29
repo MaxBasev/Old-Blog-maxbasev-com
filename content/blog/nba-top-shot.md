@@ -6,6 +6,7 @@ date: 2021-02-25
 categories: ["Crypto"]
 tags: ["NFT"]
 excerpt: Like I said - I'm not going to write about all the nuances of blockchain, cryptocurrency, etc. I will only say that it's all there and in use. And considering how long the transactions sometimes go... I'm sure it's a blockchain:) True, they have their own one and it's called Flow. It's interesting, I've got the code on github, maybe one day I'll be able to make something of my own with the help of all this stuff. You get the gist, blockchain is used. Let's move on.
+featuredImage: ../../images/uploads/NBA-Top-Shots/NBA-Top-Shot-001-MaxBasev-com.jpg
 ---
 
 ## So what is [NBA Top Shot](http://bit.ly/2NyAfJR)?

@@ -6,6 +6,7 @@ date: 2020-05-10
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Well, it’s time to write a little about business and money and everything I love so much. At the end of the article, I’m gonna throw in a few ideas for business at home during all this quarantine craziness.
+featuredImage: ../../images/uploads/009-01-About-Work.jpg
 ---
 
 ![Business ideas to start from home](../../images/uploads/009-01-About-Work.jpg "Business ideas to start from home 001")

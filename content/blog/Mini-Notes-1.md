@@ -6,9 +6,10 @@ date: 2020-06-14
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Today there will be a small post, as we call it in our country “for the evil of the day”. I will argue a little about the situation in the country, stupid youth and all that.
+featuredImage: ../../images/uploads/016-Typewriter.jpg
 ---
 
-![Mini Notes #1](../../images/uploads/015-I-EVIL.jpg "Mini Notes #1")
+![Mini Notes #1](../../images/uploads/016-Typewriter.jpg "Mini Notes #1")
 
 Today there will be a small post, as we call it in our country “for the evil of the day”. I will argue a little about the situation in the country, stupid youth and all that.
 

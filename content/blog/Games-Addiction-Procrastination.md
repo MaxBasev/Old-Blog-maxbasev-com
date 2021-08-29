@@ -6,6 +6,7 @@ date: 2020-06-08
 categories: ["My Life", "Entertainment"]
 tags: ["Games", "Notes"]
 excerpt: It’s been a long time since I wanted to write this post, so I finally decided. We are talking about computer games, pleasures, addiction and everything that is associated with these things.
+featuredImage: ../../images/uploads/013-01-Games.jpg
 ---
 
 _It’s been a long time since I wanted to write this post, so I finally decided. We are talking about computer games, pleasures, addiction and everything that is associated with these things._

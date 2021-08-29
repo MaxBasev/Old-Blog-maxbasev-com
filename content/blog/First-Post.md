@@ -6,7 +6,7 @@ date: 2020-03-24
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Hey, everybody. My name is Max and I'm from Russia.
-featuredImage: 001-01-First-Post.jpg
+featuredImage: ../../images/uploads/001-01-first-post.jpg
 ---
 
 > I thought long and hard about how to start the first post, so I decided not to complicate it.

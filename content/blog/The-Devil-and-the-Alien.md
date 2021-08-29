@@ -6,6 +6,7 @@ date: 2021-05-11
 categories: ["Creativity"]
 tags: ["My books"]
 excerpt: "Just a fan story by me"
+featuredImage: ../../images/uploads/The-Devil-and-the-Alien/Devil_alias_001.jpg
 ---
 
 A little clarification. At one time I took a course in writing skills, imagination and all that. There was an assignment to send in some emojis and then write a story based on that row of emojis.

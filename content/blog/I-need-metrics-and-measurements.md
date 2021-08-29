@@ -6,6 +6,7 @@ date: 2020-07-20
 categories: ["My Life"]
 tags: ["Notes"]
 excerpt: Even when I first started to earn money on the Internet, advertising and everything connected with it, I immediately realized that to achieve any positive result without tracking the current progress is simply impossible. It does not happen that you decided to lose 20 kg of fat, for this you decided to run every morning and you have everything in 2 months.
+featuredImage: ../../images/uploads/017-Ktulhu.PNG
 ---
 
 ![Ktulhu Forever!!!111](../../images/uploads/017-Ktulhu.PNG "Ktulhu Forever")
