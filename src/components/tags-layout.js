@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import kebabCase from "lodash/kebabCase"
 
-const TagsLayout = ({ data }) => {
+const TagsLayout = ({ data, location }) => {
   const post = data.markdownRemark
   return (
     <div className="d-flex">

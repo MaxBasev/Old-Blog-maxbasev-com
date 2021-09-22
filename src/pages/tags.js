@@ -5,61 +5,65 @@ import PropTypes from "prop-types"
 import kebabCase from "lodash/kebabCase"
 
 // Components
+import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
-import TagsLayout from "../components/tags-layout"
 
-const TagsPage = ({ pageContext, data }) => {
-  const { tag } = pageContext
-  const { edges, totalCount } = data.allMarkdownRemark
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } tagged with "${tag}"`
-  return (
-    <TagsLayout>
-      <div className="content-box clearfix">
-        <div className="blog-tags">
-          <h1>{tagHeader}</h1>
-          <ul className="tag-list">
-            {edges.map(({ node }) => {
-              const { title, date } = node.frontmatter
-              const { slug } = node.fields
-              return (
-                <li key={slug}>
-                  <Link to={slug}>{title}</Link>
-                  <small> | {date}</small>
-                </li>
-              )
-            })}
-          </ul>
-          <span>
-            <Link to="/tags">← All tags</Link>
-          </span>
-        </div>
-      </div>
-    </TagsLayout>
-  )
+const TagsPage = ({
+  data: {
+    allMarkdownRemark: { group },
+    site: {
+      siteMetadata: { title },
+    },
+  },
+}) => (
+  <div>
+    <Helmet title={title} />
+    <div>
+      <h1>Tags</h1>
+      <ul>
+        {group.map(tag => (
+          <li key={tag.fieldValue}>
+            <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+              {tag.fieldValue} ({tag.totalCount})
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+)
+
+TagsPage.propTypes = {
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.shape({
+      group: PropTypes.arrayOf(
+        PropTypes.shape({
+          fieldValue: PropTypes.string.isRequired,
+          totalCount: PropTypes.number.isRequired,
+        }).isRequired
+      ),
+    }),
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        title: PropTypes.string.isRequired,
+      }),
+    }),
+  }),
 }
 
 export default TagsPage
 
 export const pageQuery = graphql`
-  query ($tag: String) {
-    allMarkdownRemark(
-      limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
-    ) {
-      totalCount
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
-          }
-        }
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(limit: 2000) {
+      group(field: frontmatter___tags) {
+        fieldValue
+        totalCount
       }
     }
   }

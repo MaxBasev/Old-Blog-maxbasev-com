@@ -1,6 +1,5 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import kebabCase from "lodash/kebabCase"
 
 import Bio from "../components/bio"
 import PostLayout from "../components/post-layout"
@@ -39,14 +38,9 @@ const BlogPostTemplate = ({ data, location }) => {
               <div className="col-6">
                 <h5 className="categories-title">
                   Tags:{" "}
-                  {post.frontmatter.tags &&
-                    post.frontmatter.tags.map(tag => (
-                      <span key={tag}>
-                        <Link to={`/tags/${kebabCase(tag)}/`}>
-                          <div className="tags-value">{tag}</div>{" "}
-                        </Link>
-                      </span>
-                    ))}{" "}
+                  {post.frontmatter.tags.map(tags => (
+                    <div className="tags-value">{tags}</div>
+                  ))}{" "}
                 </h5>
               </div>
             </row>
