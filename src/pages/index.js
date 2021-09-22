@@ -44,7 +44,7 @@ const BlogIndex = ({ data, location }) => {
                   itemScope
                   itemType="http://schema.org/Article"
                 >
-                  <div className="row g-0">
+                  <div className="row g-0 single-posts-list">
                     <div class="col-md-4">
                       <Img
                         fluid={featuredImgFluid}
