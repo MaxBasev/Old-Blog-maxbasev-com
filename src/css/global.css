@@ -358,7 +358,8 @@ h6 {
 }
 
 .single-posts-list {
-  border: 1px solid #7800ff;
+  border: 1px solid #37b3ed;
+  padding: 15px;
 }
 
 .img-post {
