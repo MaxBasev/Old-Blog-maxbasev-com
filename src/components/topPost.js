@@ -9,6 +9,12 @@ const TopPost = () => {
       <div className="col-md-12">
         <div className="row">
           <h1 className="top-post-title">Welcome!</h1>
+          <h3>
+            <i class="title-warning">
+              The website and Blog are in the process of development. Everything
+              you see now is just an early draft.
+            </i>
+          </h3>
           <p className="top-post-text">
             Hi! My name is Max and I am happy to welcome you to my site! You can
             read a little story about me at the link below or go directly to the

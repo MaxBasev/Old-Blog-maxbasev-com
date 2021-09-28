@@ -1,6 +1,10 @@
 /*----------------------------------------------- 
   Blog titles etc 
   -----------------------------------------------*/
+.title-warning {
+  color: #7800ff;
+}
+
 .top-post-bg {
   background: #040b14;
   size: cover;
