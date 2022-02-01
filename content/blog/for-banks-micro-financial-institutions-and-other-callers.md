@@ -1,7 +1,7 @@
 ---
 path: /for-banks-micro-financial-institutions-and-other-callers
 layout: blog
-title: For banks, micro-financial institutions and other callers
+title: For banks and other callers
 date: 2021-04-14
 categories: ["My Life"]
 tags: ["F**k you"]
