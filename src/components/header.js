@@ -22,12 +22,12 @@ const AppHeader = () => {
             <a href="https://twitter.com/maxbasev" className="twitter">
               <i className="bx bxl-twitter"></i>
             </a>
-            <a href="https://www.facebook.com/maxim.basev" className="facebook">
+            {/* <a href="https://www.facebook.com/maxim.basev" className="facebook">
               <i className="bx bxl-facebook"></i>
             </a>
             <a href="https://www.instagram.com/maxbasev/" className="instagram">
               <i className="bx bxl-instagram"></i>
-            </a>
+            </a> */}
             <a
               href="https://www.linkedin.com/in/maxim-basev/"
               className="linkedin"
